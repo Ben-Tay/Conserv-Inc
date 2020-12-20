@@ -22,7 +22,7 @@ https://gitforwindows.org/
 4. git remote add origin https://github.com/Ben-Tay/Conserv-Inc.git
 5. git push origin master -f (need to do force push for some reason but doesnt affect)
 
-**Section B: All Sections except A should be done by everyone
+**Section B: All Sections except A should be done by everyone**
 
 Section B should only be done once at the start
 
@@ -38,7 +38,7 @@ Remember all git codes should only be done in the project folder - ie : D:\Ionic
 1. git checkout -b branchname (creates a new branch and switches you to that branch)
 2. git checkout branchname (switch to any other branch)
 
-**Section C: (Should be done everytime u want to upload changes to your own branch)
+**Section C: (Should be done everytime u want to upload changes to your own branch)**
 
 
 ##### Everytime u make changes in your own branch and want to push your codes to github in your own branch:
@@ -74,7 +74,7 @@ Realistically you would only want to do this when u have finished the feature yo
    1.2 Search the internet to see how to resolve
    
 2. git add .
-3. git commit -m ''
+3. git commit -m '' 
 4. git push origin your branch name
 5. make a pull request for your branch(it will be shown on the Github repository site itself)
 6. select a reviewer who will go through your codes and decide if you should make changes or merge your branch to master
