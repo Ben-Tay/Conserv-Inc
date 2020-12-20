@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ConserVProject</string>
+    <string name="title_activity_main">ConserVProject</string>
+    <string name="package_name">com.nyp.ConserVProject</string>
+    <string name="custom_url_scheme">com.nyp.ConserVProject</string>
+</resources>
