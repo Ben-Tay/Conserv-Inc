@@ -49,7 +49,9 @@ Remember all git codes should only be done in the project folder - ie : D:\Ionic
 3. git status
 4. git commit -m 'hello' (commits all added files with a message)  
 5. git status
-6. git push origin branchname (pushes your codes to your branch)
+6. git pull origin master
+7. ionic serve (check after updating codes with master integrated with your codes does the app work)
+8. git push origin branchname (pushes your codes to your branch)
 
 **Section D: Branch Merging** (Assuming you have done section C) 
 
