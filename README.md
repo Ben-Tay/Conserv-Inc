@@ -32,6 +32,8 @@ Remember all git codes should only be done in the project folder - ie : D:\Ionic
 
 1. git clone https://github.com/Ben-Tay/Conserv-Inc.git
 2. git pull origin master (may or may not need but will not affect codes since only importing on first time)
+3. npm install (to install all dependencies)
+4. ionic serve (check that u can preview the app)
 
 ##### Create your own branch:
 
