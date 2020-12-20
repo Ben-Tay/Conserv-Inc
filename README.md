@@ -46,8 +46,10 @@ Remember all git codes should only be done in the project folder - ie : D:\Ionic
 ##### Everytime u make changes in your own branch and want to push your codes to github in your own branch:
 1. git branch (check what branch u are on first)
 2. git add . (adds all files that have been changed to commit list) or git add ../.. (path of file if you do not want to add all files that have changes)
-3. git commit -m 'hello' (commits all added files with a message)  
-4. git push origin branchname (pushes your codes to your branch)
+3. git status
+4. git commit -m 'hello' (commits all added files with a message)  
+5. git status
+6. git push origin branchname (pushes your codes to your branch)
 
 **Section D: Branch Merging** (Assuming you have done section C) 
 
