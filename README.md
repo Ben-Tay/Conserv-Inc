@@ -26,16 +26,19 @@ https://gitforwindows.org/
 
 Section B should only be done once at the start
 
-Remember all git codes should only be done in the project folder - ie : D:\IonicApps\ConserVProject
 
-##### Import codes from Github repository into local environment:
 
-1. git clone https://github.com/Ben-Tay/Conserv-Inc.git
-2. git pull origin master (may or may not need but will not affect codes since only importing on first time)
-3. npm install (to install all dependencies)
-4. ionic serve (check that u can preview the app)
+##### Import codes from Github repository into local environment: 
 
-##### Create your own branch:
+1. git clone https://github.com/Ben-Tay/Conserv-Inc.git (do this in D:\IonicApps)
+2. cd Conserv-Inc
+3. git pull origin master (may or may not need but will not affect codes since only importing on first time) 
+4. npm install (to install all dependencies)
+5. ionic serve (check that u can preview the app)
+
+##### Create your own branch: 
+
+Remember u must be in D:\IonicApps\Conserv-Inc
 
 1. git checkout -b branchname (creates a new branch and switches you to that branch)
 2. git checkout branchname (switch to any other branch)
